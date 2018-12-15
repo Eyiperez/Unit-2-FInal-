@@ -123,6 +123,7 @@ console.log(cardInfoBottom);
     }
     storage.save(state);
     render(state);
+    
 })
 
 
