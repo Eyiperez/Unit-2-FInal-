@@ -1,0 +1,33 @@
+header {
+    background-color: lightgray;
+   text-align: center;
+}
+.card-info {
+    display: block;
+    
+}
+
+.hidden {
+    display: none;
+}
+
+li {
+    list-style: none;
+}
+
+.card-conatiner {
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+
+.card {
+
+    display: inline-block;
+    width: 25%;
+}
+
+.color {
+    background-color: blue; 
+    background-size: cover;
+}
